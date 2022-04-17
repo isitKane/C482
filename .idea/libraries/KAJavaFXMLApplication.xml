@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KAJavaFXMLApplication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/KAJavaFXMLApplication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
